@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "cSpell.words": ["Sokan"],
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
